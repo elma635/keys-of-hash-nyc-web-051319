@@ -24,11 +24,3 @@ class Hash
     array #return the array outside the block -- so that you'll have access to it
   end
 end
-
-
-
-
-#we're in a class --
-#class method has self keyword like def.
-#instance method  -- method name is invoked like line 2.
-#map usually called on a collection but you can use it here with nothing here.
